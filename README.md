@@ -1,2 +1,4 @@
-FiveSquareAD
-============
+FiveSquare
+==========
+
+five square game
